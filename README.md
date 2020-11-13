@@ -5,7 +5,7 @@ _Idea, research, data analysis, and writing:_ [](https://twitter.com/oargueso) [
 
 _Data visualization:_ [](https://twitter.com/daten_drang) [Kira Schacht](https://twitter.com/daten_drang)
 
-**Read the full article on DW.com:** English
+**Read the full article on DW.com:** [English](https://www.dw.com/en/indias-internet-shutdowns-function-like-invisibility-cloaks/a-55572554)
 
 India shuts downs the internet more than any other country. Kashmiris, in the north, have had no internet for over a year now. A DW analysis finds that shutdowns are strategically used to clamp down on dissent. 
 
@@ -73,7 +73,7 @@ _News report:_  [https://thewire.in/tech/ayodhya-verdict-internet-suspended-in-p
 
 **3. After communal clashes over the harassment of three Muslim men, allegedly fake videos and rumours were posted on social media**
 
-public violence = 1, misinformation = 1, protest = 1, all other categories = 0
+public violence = 1, misinformation = 1, protest = 1, all other categories = 0, religious conflict = 1
 
 _News report:_ [https://www.ndtv.com/india-news/asansol-after-reports-of-communal-tension-internet-suspended-in-bengals-asansol-2075484](https://www.ndtv.com/india-news/asansol-after-reports-of-communal-tension-internet-suspended-in-bengals-asansol-2075484)
 
